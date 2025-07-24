@@ -6,7 +6,7 @@ Welcome to the **Drum Kit** project – a fun and interactive musical web app bu
 
 ## 🔗 Live Demo
 
-> [Click here to try the Drum Kit live](#)  
+> [Click here to try the Drum Kit live](https://tech-garv.github.io/Drum-Kit/)  
 
 ---
 
